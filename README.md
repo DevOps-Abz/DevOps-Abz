@@ -17,10 +17,10 @@ and efficient cloud-native solutions. Curious about tomorrow’s technology and 
 | Projects | Description |
 |---------|-------------|
 | [Web Server Deployment on AWS using Terraform](https://github.com/DevOps-Abz/terraform-aws-project) | AWS Web Server Infrastructure Built Entirely with Terraform |
-| [Terraform AWS Infrastructure](https://github.com/your-username/terraform-aws) | Infrastructure as Code for AWS VPC, EC2, and networking |
-| [Kubernetes Microservices App](https://github.com/your-username/k8s-microservices) | Containerised microservices deployed on Kubernetes |
-| [Monitoring & Logging Stack](https://github.com/your-username/monitoring-stack) | Prometheus, Grafana, and ELK stack for observability |
-| [Serverless Cloud Project](https://github.com/your-username/serverless-app) | Serverless application using AWS Lambda and API Gateway |
+| [Terraform AWS Infrastructure](https://github.com/your-username/terraform-aws) | Coming soon |
+| [Kubernetes Microservices App](https://github.com/your-username/k8s-microservices) | Coming soon |
+| [Monitoring & Logging Stack](https://github.com/your-username/monitoring-stack) | Coming soon |
+| [Serverless Cloud Project](https://github.com/your-username/serverless-app) | Coming soon |
 
 
 [![LinkedIn](https://cdn-icons-png.flaticon.com/24/174/174857.png)](http://linkedin.com/in/abakar)
