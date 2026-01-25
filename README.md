@@ -1,3 +1,5 @@
+<div align="center">
+
 # 💫 About Me:
 
 I’m a DevOps engineer with hands-on experience in AWS, Kubernetes, Terraform, Docker, and CI/CD pipelines, focused on building reliable, automated, and scalable systems.  I work end-to-end across cloud architecture, infrastructure as code, and deployment workflows. 
@@ -11,7 +13,7 @@ I’m passionate about continuous learning, clean automation, and solving real-w
 
 
 
-<div align="center">
+
 
 # Projects 🚀
 
