@@ -16,7 +16,7 @@ and efficient cloud-native solutions. Curious about tomorrow’s technology and 
 
 | Projects | Description |
 |---------|-------------|
-| [AWS DevOps CI/CD Pipeline](https://github.com/your-username/aws-devops-cicd) | End-to-end CI/CD pipeline using Jenkins, Docker, and Kubernetes |
+| [Web Server Deployment on AWS using Terraform](https://github.com/DevOps-Abz/terraform-aws-project) | End-to-end CI/CD pipeline using Jenkins, Docker, and Kubernetes |
 | [Terraform AWS Infrastructure](https://github.com/your-username/terraform-aws) | Infrastructure as Code for AWS VPC, EC2, and networking |
 | [Kubernetes Microservices App](https://github.com/your-username/k8s-microservices) | Containerised microservices deployed on Kubernetes |
 | [Monitoring & Logging Stack](https://github.com/your-username/monitoring-stack) | Prometheus, Grafana, and ELK stack for observability |
