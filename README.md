@@ -22,4 +22,6 @@ and efficient cloud-native solutions. Curious about tomorrow’s technology and 
 | [Monitoring & Logging Stack](https://github.com/your-username/monitoring-stack) | Prometheus, Grafana, and ELK stack for observability |
 | [Serverless Cloud Project](https://github.com/your-username/serverless-app) | Serverless application using AWS Lambda and API Gateway |
 
+https://[![LinkedIn](https://cdn-icons-png.flaticon.com/24/174/174857.png)](http://linkedin.com/in/abakar)
+
 </div>
