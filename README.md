@@ -1,6 +1,6 @@
 <div align="center">
 
-# 💫 Hi, My name is AbuBakar 👋🤓
+# 💫 Hey, I'm AbuBakar 👋🤓
 
 DevOps Engineer with 3+ years hands-on experience designing, deploying, and managing cloud infrastructure in AWS environments. 
 Strong expertise in Kubernetes, Terraform, Docker, and CI/CD automation. Passionate about building scalable, reliable, secure, 
