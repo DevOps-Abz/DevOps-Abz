@@ -19,7 +19,7 @@ and efficient cloud-native solutions. Curious about tomorrow’s technology and 
 |---------|-------------|
 | [Web Server Deployment on AWS using Terraform](https://github.com/DevOps-Abz/terraform-aws-project) | AWS Web Server Infrastructure Built Entirely with Terraform |
 | [Production-Ready CI/CD Deployment on AWS ECS Fargate](https://github.com/DevOps-Abz/ecs-fargate-terraform) | ECS Fargate deployment using IaC, GitOps, and secure CI/CD  |
-| [Kubernetes Microservices App](https://github.com/your-username/k8s-microservices) | Working progress.. |
+| [Kubernetes Microservices App](https://github.com/DevOps-Abz/eks-premeth-grafana-terraform) | Deploy Production-Ready Amazon EKS Using Terraform, ArgoCD , Prometheus , Grafana & ALB. |
 | [Monitoring & Logging Stack](https://github.com/your-username/monitoring-stack) | Working progress.. |
 | [Serverless Cloud Project](https://github.com/your-username/serverless-app) | Working progress.. |
 
