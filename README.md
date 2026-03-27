@@ -18,7 +18,7 @@ and efficient cloud-native solutions. Curious about tomorrow’s technology and 
 | Projects | Description |
 |---------|-------------|
 | [Production-Ready CI/CD Deployment on AWS ECS Fargate](https://github.com/DevOps-Abz/ecs-fargate-terraform) | ECS Fargate deployment using IaC, GitOps, and secure CI/CD  |
-| [EKS-AWS-Terraform-Module-Project](https://github.com/DevOps-Abz/eks-premeth-grafana-terraform) | EKS, Terraform, ArgoCD , Prometheus , Grafana & ALB. |
+| [Production-Ready Deployment on AWS EKS Module Project](https://github.com/DevOps-Abz/eks-premeth-grafana-terraform) | EKS, Terraform, ArgoCD , Prometheus , Grafana & ALB. |
 | [Web Server Deployment on AWS using Terraform](https://github.com/DevOps-Abz/terraform-aws-project) | AWS Web Server Infrastructure Built Entirely with Terraform |
 | [Monitoring & Logging Stack](https://github.com/your-username/monitoring-stack) | Working progress.. |
 
